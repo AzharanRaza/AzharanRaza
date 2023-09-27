@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Azharan Raza</h1>
 <h3 align="center">A passionate Php developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahuldkhain&label=Profile%20views&color=0e75b6&style=flat" alt="rahuldkhain" /> </p>
 <img align="right" alt="Coding" width="400" src="https://png.pngtree.com/png-vector/20210118/ourmid/pngtree-flat-design-concept-of-programmers-at-work-mobile-app-software-development-png-image_2764955.jpg">
 
 - 🔭 I’m currently working on **E-Cart Multi Vendor ECommerce store**
